@@ -6,6 +6,7 @@ namespace ProjetoTeste_Git {
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Oi");
+            Console.WriteLine("TCHAU");
         }
     }
 }
